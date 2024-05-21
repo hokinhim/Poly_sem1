@@ -1,15 +1,15 @@
-# University Semester One Project Repository
+# University Semester One
 
-Welcome to my repository, where I will be sharing my assignments and projects completed during the first semester of my university education. Here, you will find code, reports, and other materials related to my learning journey.
+Welcome to my repository, where I will be sharing my assignments and projects completed during the first semester of my university education. Here, you will find code and other materials related to my learning journey.
 
 ## Repository Structure
 
 1. **Algorithmization and programming**
    - [Telephone database](https://github.com/hokinhim/Poly_sem1/tree/main/telephone_database)
-   - [Storing data types in C](link)
-   - [Long arithmetic](link)
-   - [Palindrome Search](link)
-   - [Sorting](link)
+   - [Storing data types in C](https://github.com/hokinhim/Poly_sem1/tree/main/data_types_in_C)
+   - [Long arithmetic](https://github.com/hokinhim/Poly_sem1/tree/main/long_arithmetic)
+   - [Palindrome Search](https://github.com/hokinhim/Poly_sem1/tree/main/palindrome_search)
+   - [Sorting](https://github.com/hokinhim/Poly_sem1/tree/main/sorting)
   
 2. **Digital Workshop**
    - [Biggest Y](link)
@@ -24,13 +24,11 @@ Welcome to my repository, where I will be sharing my assignments and projects co
 
 ## Usage Instructions
 
-If you want to explore my projects, simply navigate to the relevant section of the repository and select the project of interest. Each project contains detailed instructions on installation and execution.
+If you want to explore my projects, simply navigate to the relevant section of the repository and select the project of interest.
 
 ## Contributing
 
-Thank you for your interest in contributing to the University Semester One Project Repository. Please note that this repository is currently closed for new contributions.
-
-Thank you for your understanding.
+Thank you for your interest in contributing to the University Semester 1. Note that this repository is currently closed for new contributions.
 
 ## Feedback
 
@@ -38,6 +36,6 @@ If you have questions, comments, or suggestions, don't hesitate to create an iss
 
 ## License
 
-This repository is licensed under the MIT License - see the LICENSE file for details.
+This repository is licensed under the MIT License -- see the LICENSE file for details.
 
-Happy coding! 🚀
+Happy coding! 🔪
