@@ -5,7 +5,7 @@ Welcome to my repository, where I will be sharing my assignments and projects co
 ## Repository Structure
 
 1. **Algorithmization and programming**
-   - [Telephone database](link):
+   - [Telephone database](https://github.com/hokinhim/Poly_sem1/tree/main/telephone_database):
    - [Storing data types in C](link):
    - [Long arithmetic](link):
    - [Palindrome Search](link):
